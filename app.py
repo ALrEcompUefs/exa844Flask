@@ -16,6 +16,12 @@ def index():
     data = json.dumps(data,indent=4, ensure_ascii=False)
     return data
 
+@app.route('/teste', methods=['GET'])
+def teste():
+    aux =open("viagens.json","r")
+    viagens = json.load(aux)
+    return viagens
+
 @app.route('/pontifices', methods=['GET'])
 def getPontifices():
     return pontifices
