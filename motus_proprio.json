@@ -1,0 +1,2039 @@
+{
+    "tipo": "motu proprio",
+    "motus": [
+        {
+            "id": 1,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 2,
+            "titulo": "Carta Apostólica sob forma de \"Motu Proprio\" do Sumo Pontífice Francisco com a qual são modificados os termos de recurso de um membro demitido de um Instituto de Vida Consagrada (2 de abril de 2023)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 3,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio do Sumo Pontífice Francisco \"Vos estis lux mundi\" (Atualizado) (25 de março de 2023)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 4,
+            "titulo": "Carta Apostólica sob forma de \"Motu Proprio\" Vocare peccatores, sobre a Reforma do Direito Penal das Igrejas Orientais (20 de março de 2023)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 5,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio \"O Direito Nativo\" sobre o patrimônio da Sé Apostólica (20 de fevereiro de 2023)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 6,
+            "titulo": "Regulamento da Comissão Independente de Vigilância do Vicariato (14 de fevereiro de 2023)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 7,
+            "titulo": "Decreto do Papa Francisco para a designação dos setores, áreas e serviços pastorais aos Bispos Auxiliares da Diocese de Roma (6 de janeiro de 2023)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 8,
+            "titulo": "Carta Apostólica sob forma de \"Motu Proprio\" do Sumo Pontífice Francisco sobre as pessoas jurídicas instrumentais da Cúria Romana (5 de dezembro de 2022)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 9,
+            "titulo": " Decreto relativo à Caritas Internationalis (21 de novembro de 2022) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/20221121-decreto-caritas-internationalis.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 10,
+            "titulo": " Rescriptum Ex Audientia SS.mi sobre a passagem de competência da pastoral do turismo (30 de setembro de 2022) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/20220930-rescriptum-pastoraleturismo.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 11,
+            "titulo": " Decreto para a Soberana Ordem Militar Hospitaleira de São João de Jerusalém, de Rodes e de Malta (S.M.O.M.) (3 de setembro de 2022) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/20220903-decreto-smom.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 12,
+            "titulo": "Decreto sobre a plena representação legal da II Seção do Dicastério para a Evangelização (1º de agosto de 2022)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 13,
+            "titulo": "Carta apostólica sob forma de Motu Proprio Ad charisma tuendum (14 de julho de 2022)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 14,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio Recognitum Librum VI com a qual se modifica o cân. 695 §1, do Código de Direito Canônico (26 de abril de 2022)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 15,
+            "titulo": " Carta Apostólica sob forma de Motu Proprio «Competentias quasdam decernere», pela qual se modificam algumas normas do Código de Direito Canônico e do Código dos Cânones das Igrejas Orientais (11 de fevereiro de 2022) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/20220211-motu-proprio-assegnare-alcune-competenze.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 16,
+            "titulo": " Carta Apostólica sob forma de «Motu Proprio» Fidem servare, com a qual é modificada a estrutura interna da Congregação para a Doutrina da Fé (11 de fevereiro de 2022) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/20220211-motu-proprio-fidem-servare.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 17,
+            "titulo": "Carta apostólica sob forma de Motu Proprio com a qual o Santo Padre institui a Comissão Pontifícia de verificação e aplicação do M. P. Mitis Iudex nas Igrejas da Itália (17 de novembro de 2021) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 18,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio do Papa Francisco “Traditionis custodes” sobre o uso da Liturgia Romana anterior à Reforma de 1970 (16 de julho de 2021)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 19,
+            "titulo": " Carta Apostólica sob forma de «Motu Proprio» do Sumo Pontífice Francisco Antiquum ministerium pela qual se institui o ministério de catequista (10 de maio de 2021) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 20,
+            "titulo": "Carta Apostólica sob forma de \"Motu Proprio\" do Papa Francisco sobre as modificações de competência dos órgãos judiciários do Estado da Cidade do Vaticano (30 de abril de 2021)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 21,
+            "titulo": " Carta Apostólica sob forma de Motu Proprio do Papa Francisco que estabelece disposições sobre a transparência na gestão das finanças públicas (26 de abril de 2021) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20210426_trasparenza-finanzapubblica.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 22,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 23,
+            "titulo": " Carta Apostólica dada \"Motu Proprio\" sobre algumas modificações relativas à eleição do Romano Pontífice (22 de fevereiro de 2013) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 24,
+            "titulo": " Carta Apostólica sob forma de \"Motu Proprio\" Fides per doctrinam com a qual se modifica a Constituição Pastor bonus e se transfere a competência sobre a Catequese da Congregação para o Clero à Promoção da Nova Evangelização (16 de janeiro de 2013) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_fides-per-doctrinam.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 25,
+            "titulo": " Carta Apostólica sob forma de \"Motu Proprio\" Ministrorum institutio com a qual é modificada a Constituição Apostólica Pastor bonus e se transfere a competência sobre os seminários da \"Congregação para a Educação Católica\" à \"Congregação para o Clero\" (16 de janeiro de 2013) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_ministrorum-institutio.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 26,
+            "titulo": " Carta Apostólica sob forma de \"Motu Proprio\" Intima Ecclesiae natura sobre o serviço da caridade (11 de novembro de 2012) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20121111_caritas.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 27,
+            "titulo": " Carta Apostólica sob forma de \"Motu Proprio\" Latina Lingua, com a qual é instituída a Pontifícia Academia de Latinidade (10 de novembro de 2012) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20121110_latina-lingua.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 28,
+            "titulo": "Carta Apostólica sob forma de \"Motu Proprio\" Pulchritudinis fidei com a qual a \rPontifícia Comissão para os Bens Culturais da Igreja é unida ao Pontifício \rConselho para a Cultura (30 de julho de \r2012)",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 29,
+            "titulo": " Carta Apostólica sob forma de \"Motu Proprio\" Porta fidei com a qual se proclama o Ano da Fé (11 de outubro de 2011) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 30,
+            "titulo": " Carta Apostólica sob forma de \"Motu Proprio\" Quaerit semper (30 de agosto de 2011) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20110830_quaerit-semper.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 31,
+            "titulo": " Carta Apostólica sob forma de \"Motu Proprio\" para a prevenção e o contraste das atividades ilegais em campo financeiro e monetário (30 de dezembro de 2010) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20101230_attivita-illegali.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 32,
+            "titulo": " Motu Proprio Summorum Pontificum sobre a «Liturgia romana anterior à reforma de 1970» (7 de julho de 2007) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 33,
+            "titulo": "Motu Proprio com o qual o Santo Padre retoma a norma tradicional sobre a maioria necessária na eleição do Sumo Pontífice (11 de junho de 2007)",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 34,
+            "titulo": " Motu Proprio para a aprovação e a publicação do Compêndio do Catecismo da Igreja Católica (28 de junho de 2005) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20050628_compendio-catechismo.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 35,
+            "titulo": " Motu Proprio \"A antiga e venerável Basílica\" para a Basílica de São Paulo fora dos Muros e para o seu conjunto extraterritorial  (31 de maio de 2005) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20050531_antica-venerabile-basilica.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 36,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 37,
+            "titulo": " Carta Apostólica sob forma de Motu  Proprio com a qual confia à Congregação dos Legionários de Cristo os cuidados e a administração do \"Pontifício Instituto Notre-Dame of Jerusalem\" de Jerusalém (26 de novembro de 2004) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20041126_legionaries-jerusalem.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 38,
+            "titulo": " Misericordia Dei (7 de abril de 2002) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20020502_misericordia-dei.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 39,
+            "titulo": " Sacramentorum sanctitatis tutela (30 de abril de 2001) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20020110_sacramentorum-sanctitatis-tutela.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 40,
+            "titulo": " A nova Lei fundamental do Estado da Cidade do Vaticano (26 de novembro de 2000) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20001126_legge-fondamentale-scv.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 41,
+            "titulo": " E sancti Thomae Mori(31 de outubro de 2000) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20001031_thomas-more.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 42,
+            "titulo": "Nuntiaturae apostolicae - Carta Apostólica sob forma de Motu Proprio \r(2 de outubro de 1999)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 43,
+            "titulo": " Spes Aedificandi (1° de outubro de 1999) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_01101999_co-patronesses-europe.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 44,
+            "titulo": "Sacra liturgia - Carta Apostólica sob forma de Motu  Proprio \r(23 de maio de 1999)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 45,
+            "titulo": " Apostolos Suos (21 de maio de 1998) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_22071998_apostolos-suos.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 46,
+            "titulo": " Ad Tuendam Fidem (18 de maio de 1998) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_30061998_ad-tuendam-fidem.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 47,
+            "titulo": " Stella Maris (17 de março de 1999) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_17031999_stella-maris.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 48,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio através da qual promulga-se o Estatuto definitivo dos Serviços Centrais do Trabalho da Sé Apostólica\r (30 de setembro de 1994)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 49,
+            "titulo": "Vitae Mysterium (11 de fevereiro de 1994)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 50,
+            "titulo": "Socialium Scientiarum (1° de janeiro de 1994)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 51,
+            "titulo": "Inde a Pontificatus (25 de março de 1993)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 52,
+            "titulo": "Europae Orientalis (15 de janeiro de 1993)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 53,
+            "titulo": "Carta Apostólica sob forma de Motu  Proprio com \ra qual é instituído o  Departamento de Trabalho da Sé Apostólica (ULSA) (1° \rde janeiro de 1989)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 54,
+            "titulo": " Ecclesia Dei (2 de julho de 1988) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_02071988_ecclesia-dei.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 55,
+            "titulo": "Iusti\rIudicis (28 de junho de 1988)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 56,
+            "titulo": " Decessores nostri (18 de junho de 1988) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_19880618_decessores-nostri.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 57,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 58,
+            "titulo": "Inter eximia (11 de maio de 1978)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 59,
+            "titulo": "Iustitiam et pacem (10 de dezembro \rde 1976)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 60,
+            "titulo": "Apostolatus peragendi (10 de \rdezembro de 1976)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 61,
+            "titulo": "Catholica ecclesia (23 de outubro \rde 1976)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 62,
+            "titulo": "Firma in traditione (13 de junho de \r1974)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 63,
+            "titulo": "Cum matrimonialium causarum (8 de \rsetembro de 1973)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 64,
+            "titulo": "Magisterium vitae (24 de maio de 1973)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 65,
+            "titulo": "Quo aptius (27 de fevereiro de \r1973)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 66,
+            "titulo": " Ad Pascendum: com a qual se estabelem algumas normas a respeito da Ordem Sacra do Diaconado (15 de agosto de 1972) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio/documents/hf_p-vi_motu-proprio_19720815_ad-pascendum.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 67,
+            "titulo": "Sedula cura (27 de junho de 1971)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 68,
+            "titulo": " Causas matrimoniales: em que se estabelecem algumas normas para uma mais rápida resolução dos processos matrimoniais (28 de março de 1971) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio/documents/hf_p-vi_motu-proprio_19710328_causas-matrimoniales.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 69,
+            "titulo": "Ingravescentem Aetatem (20 de \rnovembro de 1970)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 70,
+            "titulo": "Matrimonia mixta (31 de março de 1970)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 71,
+            "titulo": "Apostolicae caritatis (19 de março de 1970)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 72,
+            "titulo": "Pastoralis migratorum cura \r(15 de agosto de 1969)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 73,
+            "titulo": "Inclita toto (8 de agosto de 1969)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 74,
+            "titulo": "Sollicitudo omnium Ecclesiarum (24 de junho de 1969)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 75,
+            "titulo": "Ad hoc usque tempus \r(15 de abril de 1969)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 76,
+            "titulo": "Sanctitas clarior (19 de março de 1969)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 77,
+            "titulo": " Mysterii Paschalis: sobre a celebração do Mistério Pascal aprovando as normas universais do Ano Litúrgico e o Novo Calendário Litúrgico (14 de fevereiro de 1969) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio/documents/hf_p-vi_motu-proprio_19690214_mysterii-paschalis.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 78,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 79,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio Dominicianus Ordo com a qual o Angelicum de Roma é elevado a Universidade Pontifícia (7 de março de 1963)",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 80,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio Fidei propagandae, com a \rqual é conferido o título de \"Universidade\" ao Pontifício Ateneu Urbaniano \rde Propaganda Fide (1 de \routubro de 1962)",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 81,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio Templorum Decus, para a \rinstituição do Cônegos honorários para as Basílicas Patriarcais (11 de \rsetembro de 1962)",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 82,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio Summi Pontificis \relectio, que contém as normas referentes à Sé Apostólica (5 de setembro de 1962)",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 83,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio Appropinquante Concilio, \rcom a qual se aprova o Regulamento do Concílio Ecumênico Vaticano\rII (6 de agosto de 1962)",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 84,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio Cum gravissima, sobre a dignidade episcopal a ser conferida a todos os cardeais\r (15 \rde abril de 1962)",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 85,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio Suburbicariis sedibus, sobre a nova organização das sedes suburbicárias\r (11 de abril de 1962)",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 86,
+            "titulo": " Carta Apostólica sob forma de Motu Proprio Consilium, que define o dia de abertura do Concílio Ecumênico Vaticano II (2 de fevereiro de 1962) ",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio/documents/hf_j-xxiii_motu-proprio_19620202_concilium.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 87,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio Ad Suburbicarias Dioeceses, com a qual é ab-rogada a opção para a escolha \rdas Sedes episcopais suburbicárias e a nomeação é colocada a disposição do Papa (10 de março de 1961)",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 88,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio Rubricarum Instructum, com a qual aprova-se o novo Código das Rubricas do Breviário e do Missal Romano (25 de julho de 1960)",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 89,
+            "titulo": "De Pontificio Consilio Ecclesiasticis Italiae Tabularis curandis,\rMotu \rproprio que estabelece a reorganização dos Arquivos Eclesiásticos na Itália e \rproclama um novo Estatuto (29 fevereiro 1960)",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 90,
+            "titulo": "Cum inde, Motu Proprio que confere o título de \"Universitas\" ao \rPontifício Ateneu Lateranense (17 de maio de 1959)",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 91,
+            "titulo": " Motu Proprio Boni Pastoris, que institui a Pontifícia Comissão para a Cinematografia, a Rádio e a Televisão como Organismos da Santa Sé (22 de fevereiro de 1959) ",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/motu_proprio/documents/hf_j-xxiii_motu-proprio_22021959_boni-pastoris.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 92,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/pius-xii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 93,
+            "titulo": "Cleri sanctitate, Carta Apóstolica sob forma de Motu Proprio (2 de junho de 1957)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 94,
+            "titulo": "Valde solliciti (30 de novembro de 1952)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 95,
+            "titulo": "Postquam Apostolicis (9 de fevereiro de 1952)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 96,
+            "titulo": "Sollicitudinem Nostram (6 de janeiro de 1950)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 97,
+            "titulo": "Quandoquidem templum (2 de abril de 1949)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 98,
+            "titulo": "Crebrae allatae sunt (22 de fevereiro de 1949)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 99,
+            "titulo": "Primo feliciter (12 de março de 1948)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 100,
+            "titulo": "Animarum studio (16 de dezembro de 1947)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 101,
+            "titulo": "Apostolico Hispaniarum (7 de abril de 1947)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 102,
+            "titulo": "Cum nobis (4 de novembro de 1941)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 103,
+            "titulo": "Norunt profecto (27 de outubro de 1940)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 104,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/pius-xi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 105,
+            "titulo": "Motu proprio In multis solaciis com o qual confere o nome de \"Pontifícia Academia Scientiarum\" à \"Accademia dei Lincei Filosofi\" (28 de outubro de 1936)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 106,
+            "titulo": "Motu ProprioGià da qualche tempo (6 de fevereiro de 1930)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 107,
+            "titulo": "Motu Proprio Vix ad summi Pontificatus (24 de junho de 1929)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 108,
+            "titulo": "Motu ProprioDecessor Noster (24 de junho de 1929)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 109,
+            "titulo": "Motu Proprio Di nostro moto proprio que contém a Lei Fundamental da Cidade do Vaticano (7 de junho de 1929)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 110,
+            "titulo": "Motu Proprio I primitivi cemeteri  que institui o Pontifício Instituto de Arqueologia Cristã (11 de dezembro de 1925)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 111,
+            "titulo": "Motu Proprio Latinarum litterarum (20 de outubro de 1924)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 112,
+            "titulo": "Motu Proprio Post datam (20 de abril de 1923)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 113,
+            "titulo": "Motu Proprio Ad Musicae Sacrae (22 de novembro de 1922)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 114,
+            "titulo": "Motu Proprio Romanorum Pontificum (3 de maio de 1922)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 115,
+            "titulo": "Motu Proprio Romani Pontificis (12 de março de 1922)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 116,
+            "titulo": "Motu Proprio Cum Proxime, sobre as novas normas a propósito das reuniões dos cardeais chamados a eleger o novo Papa (1° de março de 1922)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 117,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 118,
+            "titulo": "Bonum Sane (25 de julho de 1920)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 119,
+            "titulo": "Quartus Iam Annus (9 de maio de 1918)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 120,
+            "titulo": "Orientis Catholici (15 de outubro de 1917)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 121,
+            "titulo": "Cum Iuris Canonici (15 de setembro de 1915)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 122,
+            "titulo": "Dei Providentis (1 de maio de 1917)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 123,
+            "titulo": "Nobilissimam Sacrarum (8 de abril de 1917)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 124,
+            "titulo": "Alloquentes Proxime (25 de março de 1917)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 125,
+            "titulo": "Seminaria Clericorum (4 de novembro de 1915)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 126,
+            "titulo": "Quandoquidem in iis (16 de setembro de 1915)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 127,
+            "titulo": "Non multo post (31 de dezembro de 1914)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 128,
+            "titulo": "Consilium a Decessore (23 de novembro de 1914)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 129,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 130,
+            "titulo": "Supremum officium (17 de dezembro de 1912)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 131,
+            "titulo": "Sobre a construção de um Santuário na cidade de Nettuno para assistência espiritual da população (28 de junho de 1911)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 132,
+            "titulo": "In Romanae Curiae (8 de dezembro de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 133,
+            "titulo": "Ob singularem (8 de setembro de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 134,
+            "titulo": "Sacrorum antistitum (1° de setembro de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 135,
+            "titulo": "Illibatae custodiendae (29 de junho de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 136,
+            "titulo": "Sacris solemniis (9 de junho de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 137,
+            "titulo": "Ex quo (26 de maio de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 138,
+            "titulo": "In hac Beatissimi Petri (3 de maio de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 139,
+            "titulo": "Cum disciplinae (10 de abril de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 140,
+            "titulo": "Cum per apostolicas (7 de abril de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 141,
+            "titulo": "Praestantia Scripturae (18 de novembro de 1907)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 142,
+            "titulo": "In domibus (17 de setembro de 1907)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 143,
+            "titulo": "Singulari curare (17 de setembro de 1907)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 144,
+            "titulo": "Propositum urgentes (5 de agosto de 1906)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 145,
+            "titulo": "Dei providentis benignitatem (16 de julho de 1906)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 146,
+            "titulo": "De Sacris Congregationibus (26 de maio de 1906)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 147,
+            "titulo": "Religiosorum Ordinum (19  de março de 1906)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 148,
+            "titulo": "Summo sane (18 de novembro de 1905)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 149,
+            "titulo": "Sacrosancta Tridentina Synodus (16 de julho de 1905)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 150,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 151,
+            "titulo": "Litteras ante annos (25 de novembro de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 152,
+            "titulo": "Ad pastoralem (5 de abril de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 153,
+            "titulo": "Quum nonnullorum (20 de julho de 1898)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 154,
+            "titulo": "Cum plura Nobis (10 de julho de 1898)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 155,
+            "titulo": "Ea animi sollicitudo (4 de julho de 1898)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 156,
+            "titulo": "Sodalium Benedictinorum Ordinem (15 de dezembro de 1897)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 157,
+            "titulo": "Auspicia rerum (19 de março de 1896)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 158,
+            "titulo": "Alumnis Seminarii Vaticani (25 de julho de 1892)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 159,
+            "titulo": "Augustum Sanctissimumque (1 de outubro de 1888)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 160,
+            "titulo": "Placere Nobis (18 de janeiro de 1880)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/motu_proprio.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 161,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.2.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 162,
+            "titulo": " Carta apostólica sob forma de motu proprio do Sumo Pontífice Francisco relativa à contenção das despesas com o pessoal da Santa Sé, do Governatorato do Estado da Cidade do Vaticano e de outras Entidades afins (23 de março de 2021) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20210323_decreto-retribuzioni.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 163,
+            "titulo": "Carta Apostólica sob forma de \"Motu Proprio\" do Papa Francisco referente a modificações em matéria de justiça (8 de fevereiro de 2021)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.2.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 164,
+            "titulo": " Carta Apostólica sob forma de Motu Proprio, sobre a modificação do cân. 230 § 1 do Código de Direito Canônico sobre o acesso das pessoas de sexo feminino ao ministério do Leitorado e do Acolitado (10 de janeiro de 2021) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20210110_spiritus-domini.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 165,
+            "titulo": " Carta Apostólica sob forma de Motu Proprio do Papa Francisco sobre algumas competências em matéria econômico-financeira (26 de dezembro de 2020) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20201226_una-migliore-organizzazione.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 166,
+            "titulo": "Carta Apostólica sob forma de Motu proprio \"Ab initio\", sobre a modificação dos cânones 435 §1 e 506 §1 do Código dos Cânones das Igrejas Orientais (21 de novembro de 2020)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.2.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 167,
+            "titulo": " Carta Apostólica sob forma de Motu proprio \"Authenticum charismatis\" com a qual se modifica o cân. 579 do Código de Direito Canônico (1° de novembro de 2020) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20201101_authenticum-charismatis.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 168,
+            "titulo": " Carta Apostólica em forma de \"Motu Proprio\" sobre a transparência, o controle e a concorrência nos procedimentos de adjudicação de contratos públicos da Santa Sé e do Estado da Cidade do Vaticano (19 de maio de 2020) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20200519_procedure-aggiudicazione-contrattipubblici.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 169,
+            "titulo": "Promulgação da Lei N. CCCLI sobre o ordenamento judiciário do Estado da Cidade do Vaticano (16 de março de 2020)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.2.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 170,
+            "titulo": " Carta Apostólica em forma de Motu Proprio relativa ao cargo do Decano do Colégio Cardinalício (21 de dezembro de 2019) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20191221_decano-collegio-cardinalizio.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 171,
+            "titulo": " Carta Apostólica sob forma de Motu Proprio para a mudança da denominação de \"Arquivo Secreto Vaticano\" para \"Arquivo Apostólico Vaticano\" (22 de outubro de 2019) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20191022_archivio-apostolico-vaticano.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 172,
+            "titulo": " Carta Apostólica sob forma de Motu Proprio Aperuit illis pela qual se institui o Domingo da Palavra de Deus (30 de setembro de 2019) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 173,
+            "titulo": " Carta Apostólica sob forma de Motu Proprio do Sumo Pontífice Francisco \"Vos estis lux mundi\" (7 de maio de 2019) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20190507_vos-estis-lux-mundi.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 174,
+            "titulo": " Carta Apostólica sob forma de \"Motu Proprio\" sobre a proteção dos menores e das pessoas vulneráveis (26 de março de 2019) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20190326_latutela-deiminori.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 175,
+            "titulo": " Carta Apostólica em forma de \"Motu Proprio\" Communis vita, com a qual são modificadas algumas normas do Código de Direito Canônico (19 de março de 2019) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20190319_communis-vita.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 176,
+            "titulo": " Carta Apostólica sob forma de Motu Proprio sobre a Pontifícia Comissão \"Ecclesia Dei\" (17 de janeiro de 2019) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20190117_ecclesia-dei.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 177,
+            "titulo": " Carta Apostólica em forma de Motu Proprio sobre a Capela Musical Pontifícia (17 de janeiro de 2019) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20190117_cappella-musicale-pontificia.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 178,
+            "titulo": "Lei sobre o Governo do Estadao da Cidade do Vaticano (25 de novembro de 2018)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.2.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 179,
+            "titulo": " Carta Apostólica em forma de Motu Proprio Aprender a despedir-se com a qual se regula a renúncia, por motivo de idade, dos titulares de alguns cargos de nomeação pontifícia (12 de fevereiro de 2018) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20180212_imparare-a-congedarsi.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 180,
+            "titulo": " Carta Apostólica em forma de Motu Proprio Summa familiae cura, que institui o Pontifício Instituto Teológico João Paulo II para as Ciências do Matrimônio e da Família (8 de setembro de 2017) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20170908_summa-familiae-cura.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 181,
+            "titulo": " Carta Apostólica em forma de Motu Proprio Magnum Principium com a qual é modificado o cân. 838 do Código de Direito Canônico (3 de setembro de 2017) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20170903_magnum-principium.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 182,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.3.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 183,
+            "titulo": " Carta Apostólica em forma de Motu Proprio «Maiorem hac dilectionem» sobre a oferta da vida (11 de julho de 2017) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20170711_maiorem-hac-dilectionem.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 184,
+            "titulo": " Carta Apostólica em forma de Motu Proprio Sanctuarium in Ecclesia com a qual se transferem as Competências sobre os Santuários ao Pontifício Conselho para a Promoção da Nova Evangelização (11 de fevereiro de 2017) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20170211_sanctuarium-in-ecclesia.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 185,
+            "titulo": "Estatuto da Pontifícia Academia para a Vida (18 de outubro de 2016)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.3.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 186,
+            "titulo": " Estatuto da Secretaria para a Comunicação (6 de setembro de 2016) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco_20160906_statuto-segreteria-comunicazione.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 187,
+            "titulo": "Estatuto do Dicastério para o Serviço do Desenvolvimento Humano Integral (17 de agosto de 2016)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.3.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 188,
+            "titulo": " Carta Apostólica em forma de 'Motu Proprio' com qual se institui o Dicastério para o Serviço do Desenvolvimento Humano Integral (17 de agosto de 2016) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20160817_humanam-progressionem.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 189,
+            "titulo": " Carta Apostólica em forma de 'Motu Proprio' com a qual se institui o Dicastério para os Leigos, a Família e a Vida (15 de agosto de 2016) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20160815_sedula-mater.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 190,
+            "titulo": " Carta Apostólica em forma de Motu Proprio Os bens temporais, sobre as competências em matéria econômico-financeira (4 de julho de 2016) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20160704_i-beni-temporali.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 191,
+            "titulo": "Estatuto do Dicastério para os Leigos, a Família e a Vida (4 de junho de 2016)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.3.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 192,
+            "titulo": "Carta Apostólica em forma de 'Motu Proprio' Como uma mãe amorosa (4 de junho de 2016)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.3.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 193,
+            "titulo": "Carta Apostólica \"De concordia inter Codices\" em forma de 'Motu Proprio' com a qual são modificadas algumas normas do Código de Direito Canônico (31 de maio de 2016)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.3.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 194,
+            "titulo": " Carta Apostólica em forma de 'Motu Proprio' Mitis et misericors Iesus, sobre a reforma do processo canônico para as causas de declaração de nulidade do matrimônio no Código dos Cânones das Igrejas Orientais (15 de agosto de 2015) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-et-misericors-iesus.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 195,
+            "titulo": " Carta Apostólica em forma de 'Motu Proprio' Mitis Iudex Dominus Iesus, sobre a reforma do processo canônico para as causas de declaração de nulidade do matrimônio no Código de Direito Canônico (15 de agosto de 2015) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20150815_mitis-iudex-dominus-iesus.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 196,
+            "titulo": " Carta Apostólica em forma de Motu Proprio «O atual contexto comunicativo» para a Instituição da Secretaria para a Comunicação (27 de junho de 2015) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20150627_segreteria-comunicazione.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 197,
+            "titulo": "Estatutos de novos Organismos Econômicos (22 de fevereiro de 2015)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.3.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 198,
+            "titulo": " Carta Apostólica em forma de Motu Proprio - Transferência da Seção Ordinária da Administração da Sé Apostólica à Secretaria para a Economia (8 de julho de 2014) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20140708_trasferimento-apsa.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 199,
+            "titulo": " Carta Apostólica em forma de «Motu Proprio» “ Fidelis dispensator et prudens ” para a constituição de uma nova estrutura de coordenação para os assuntos econômicos da Santa Sé e do Vaticano (24 de fevereiro de 2014) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20140224_fidelis-dispensator-et-prudens.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 200,
+            "titulo": " Carta Apostólica em forma de «Motu Proprio» com a qual é aprovado o novo Estatuto da Autoridade de Informação Financeira (15 de novembro de 2013) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20131115_statuto-aif.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 201,
+            "titulo": " Carta Apostólica em forma de «Motu Proprio» sobre a prevenção e combate à lavagem de dinheiro, ao financiamento do terrorismo e à proliferação de armas de destruição de massa (8 de agosto de 2013) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20130808_prevenzione-contrasto.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 202,
+            "titulo": "Carta Apostólica em forma de  «Motu Proprio» sobre a jurisdição dos órgãos judiciários do Estado da Cidade do Vaticano em matéria penal (11 de julho de 2013)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.3.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 203,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 204,
+            "titulo": "Sollicita Cura (26 de dezembro de 1987)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 205,
+            "titulo": "Quo Civium Iura (21 de novembro de 1987)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 206,
+            "titulo": "Dolentium Hominum (11 de fevereiro de 1985)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 207,
+            "titulo": " \"Recognito Iuris Canonici Codice\" para a instituição da Pontifícia Comissão para a interpretação autêntica do Código de Direito Canônico (2 de janeiro de 1984) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_02011984_pontificia-commissione.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 208,
+            "titulo": "Qui res Christi gerit (3 de outubro de 1982)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 209,
+            "titulo": " Tredecim anni (6 de agosto de 1982) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_06081982_tredecim-anni.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 210,
+            "titulo": "Beata Hedvigis (8 de dezembro de 1981)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 211,
+            "titulo": " Familia a Deo Instituta (9 de maio de 1981) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_09051981_familia-a-deo-instituta.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 212,
+            "titulo": "Carta Apostólica sob forma de \"Motu Proprio\" com a qual o Santo Padre decreta a \rerecção da \"Notre Dame of Jerusalem Center\" (13 \rde dezembro de 1978)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 213,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 214,
+            "titulo": "Romanae Dioecesis (30 de junho de \r1968)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 215,
+            "titulo": " Credo do Povo de Deus - Solene Profissão de Fé (30 de junho de 1968) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio/documents/hf_p-vi_motu-proprio_19680630_credo.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 216,
+            "titulo": "Pontificalia Insignia\r (21 de junho de 1968)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 217,
+            "titulo": "Pontificalis Domus (28 de março de \r1968)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 218,
+            "titulo": "Pro comperto sane\r (6 de agosto de 1967)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 219,
+            "titulo": "Sacrum diaconatus\r (18 de junho de 1967)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 220,
+            "titulo": "Episcopalis Potestatis\r (2 de maio de 1967)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 221,
+            "titulo": "Catholicam Christi Ecclesiam\r (6 de janeiro de 1967)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 222,
+            "titulo": "Ecclesiae Sanctae\r (6 de agosto de 1966)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 223,
+            "titulo": "De Episcoporum Muneribus\r (15 de junho de 1966)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 224,
+            "titulo": "Munus apostolicum\r (10 de junho de 1966)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 225,
+            "titulo": "Summi Dei beneficio\r (3 de maio de 1966)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 226,
+            "titulo": "Equestres Ordines  (15 de abril de 1965)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 227,
+            "titulo": "Peculiare ius (8 de fevereiro de 1966)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 228,
+            "titulo": "Romanae Urbis (2 de fevereiro de 1966)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 229,
+            "titulo": "Verbi Dei (25 de janeiro de 1966)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 230,
+            "titulo": "Motu proprio para as outras Comissões pós-Conciliares (3 de janeiro de \r 1966)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 231,
+            "titulo": "Altissimi cantus (7 de dezembro de 1965)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 232,
+            "titulo": "Integrae servandae\r (7 de dezembro de 1965)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 233,
+            "titulo": "Apostolica sollicitudo (15 de setembro de 1965)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 234,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 235,
+            "titulo": "Sacro Cardinalium \rConsilio (26 de fevereiro de 1965)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 236,
+            "titulo": "Ad purpuratorum Patrum Collegium\r (11 de fevereiro de 1965)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 237,
+            "titulo": "Progrediente Concilio \r (19 de maio de 1964)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 238,
+            "titulo": "In fructibus multis: com a qual é instituída a Pontifícia Comissão para as Comunicações Sociais (2 de abril de 1964)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 239,
+            "titulo": "Studia latinitatis\r (22 de fevereiro de 1964)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 240,
+            "titulo": "Sacram liturgiam\r (25 de janeiro de 1964)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 241,
+            "titulo": "Pastorale munus\r (30 de novembro de 1963)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 242,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 243,
+            "titulo": "Tutte le istituzioni (20 de junho de 1905)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 244,
+            "titulo": "Crux pectoralis (24 de maio de 1905)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 245,
+            "titulo": "Apostolicae Sedi (8 de maio de 1905)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 246,
+            "titulo": "Inter multiplices curas (21 de fevereiro de 1905)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 247,
+            "titulo": "Singularitas regiminis (29 de junho de 1904)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 248,
+            "titulo": "Seminarium Vaticanum (12 de maio de 1904)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 249,
+            "titulo": "Sobre a edição vaticana de livros litúrgicos com cantos gregorianos (15 de abril de 1904)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 250,
+            "titulo": "Arduum sane munus (19 de março de 1904)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 251,
+            "titulo": "Decessor Noster (31 de janeiro de 1904)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 252,
+            "titulo": "Fin dalla prima (18 de dezembro de 1903)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 253,
+            "titulo": "Romanis Pontificibus (17 de dezembro de 1903)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 254,
+            "titulo": " Tra le sollecitudini (22 de novembro de 1903) ",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio/documents/hf_p-x_motu-proprio_19031122_sollecitudini.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 255,
+            "titulo": "Peculiaria quaedam (14 de janeiro de 1903)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 256,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 257,
+            "titulo": "Carta Apostólica sob forma de \"Motu Proprio\" do Sumo Pontífice Francisco com a qual são modificados os termos de recurso de um membro demitido de um Instituto de Vida Consagrada (2 de abril de 2023)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 258,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio do Sumo Pontífice Francisco \"Vos estis lux mundi\" (Atualizado) (25 de março de 2023)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 259,
+            "titulo": "Carta Apostólica sob forma de \"Motu Proprio\" Vocare peccatores, sobre a Reforma do Direito Penal das Igrejas Orientais (20 de março de 2023)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 260,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio \"O Direito Nativo\" sobre o patrimônio da Sé Apostólica (20 de fevereiro de 2023)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 261,
+            "titulo": "Regulamento da Comissão Independente de Vigilância do Vicariato (14 de fevereiro de 2023)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 262,
+            "titulo": "Decreto do Papa Francisco para a designação dos setores, áreas e serviços pastorais aos Bispos Auxiliares da Diocese de Roma (6 de janeiro de 2023)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 263,
+            "titulo": "Carta Apostólica sob forma de \"Motu Proprio\" do Sumo Pontífice Francisco sobre as pessoas jurídicas instrumentais da Cúria Romana (5 de dezembro de 2022)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 264,
+            "titulo": " Decreto relativo à Caritas Internationalis (21 de novembro de 2022) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/20221121-decreto-caritas-internationalis.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 265,
+            "titulo": " Rescriptum Ex Audientia SS.mi sobre a passagem de competência da pastoral do turismo (30 de setembro de 2022) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/20220930-rescriptum-pastoraleturismo.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 266,
+            "titulo": " Decreto para a Soberana Ordem Militar Hospitaleira de São João de Jerusalém, de Rodes e de Malta (S.M.O.M.) (3 de setembro de 2022) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/20220903-decreto-smom.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 267,
+            "titulo": "Decreto sobre a plena representação legal da II Seção do Dicastério para a Evangelização (1º de agosto de 2022)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 268,
+            "titulo": "Carta apostólica sob forma de Motu Proprio Ad charisma tuendum (14 de julho de 2022)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 269,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio Recognitum Librum VI com a qual se modifica o cân. 695 §1, do Código de Direito Canônico (26 de abril de 2022)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 270,
+            "titulo": " Carta Apostólica sob forma de Motu Proprio «Competentias quasdam decernere», pela qual se modificam algumas normas do Código de Direito Canônico e do Código dos Cânones das Igrejas Orientais (11 de fevereiro de 2022) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/20220211-motu-proprio-assegnare-alcune-competenze.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 271,
+            "titulo": " Carta Apostólica sob forma de «Motu Proprio» Fidem servare, com a qual é modificada a estrutura interna da Congregação para a Doutrina da Fé (11 de fevereiro de 2022) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/20220211-motu-proprio-fidem-servare.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 272,
+            "titulo": "Carta apostólica sob forma de Motu Proprio com a qual o Santo Padre institui a Comissão Pontifícia de verificação e aplicação do M. P. Mitis Iudex nas Igrejas da Itália (17 de novembro de 2021) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 273,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio do Papa Francisco “Traditionis custodes” sobre o uso da Liturgia Romana anterior à Reforma de 1970 (16 de julho de 2021)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 274,
+            "titulo": " Carta Apostólica sob forma de «Motu Proprio» do Sumo Pontífice Francisco Antiquum ministerium pela qual se institui o ministério de catequista (10 de maio de 2021) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20210510_antiquum-ministerium.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 275,
+            "titulo": "Carta Apostólica sob forma de \"Motu Proprio\" do Papa Francisco sobre as modificações de competência dos órgãos judiciários do Estado da Cidade do Vaticano (30 de abril de 2021)",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio.index.1.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 276,
+            "titulo": " Carta Apostólica sob forma de Motu Proprio do Papa Francisco que estabelece disposições sobre a transparência na gestão das finanças públicas (26 de abril de 2021) ",
+            "link": "https://www.vatican.va//content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20210426_trasparenza-finanzapubblica.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 277,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 278,
+            "titulo": " Carta Apostólica sob forma de Motu  Proprio com a qual confia à Congregação dos Legionários de Cristo os cuidados e a administração do \"Pontifício Instituto Notre-Dame of Jerusalem\" de Jerusalém (26 de novembro de 2004) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20041126_legionaries-jerusalem.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 279,
+            "titulo": " Misericordia Dei (7 de abril de 2002) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20020502_misericordia-dei.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 280,
+            "titulo": " Sacramentorum sanctitatis tutela (30 de abril de 2001) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20020110_sacramentorum-sanctitatis-tutela.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 281,
+            "titulo": " A nova Lei fundamental do Estado da Cidade do Vaticano (26 de novembro de 2000) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20001126_legge-fondamentale-scv.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 282,
+            "titulo": " E sancti Thomae Mori(31 de outubro de 2000) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20001031_thomas-more.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 283,
+            "titulo": "Nuntiaturae apostolicae - Carta Apostólica sob forma de Motu Proprio \r(2 de outubro de 1999)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 284,
+            "titulo": " Spes Aedificandi (1° de outubro de 1999) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_01101999_co-patronesses-europe.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 285,
+            "titulo": "Sacra liturgia - Carta Apostólica sob forma de Motu  Proprio \r(23 de maio de 1999)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 286,
+            "titulo": " Apostolos Suos (21 de maio de 1998) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_22071998_apostolos-suos.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 287,
+            "titulo": " Ad Tuendam Fidem (18 de maio de 1998) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_30061998_ad-tuendam-fidem.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 288,
+            "titulo": " Stella Maris (17 de março de 1999) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_17031999_stella-maris.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 289,
+            "titulo": "Carta Apostólica sob forma de Motu Proprio através da qual promulga-se o Estatuto definitivo dos Serviços Centrais do Trabalho da Sé Apostólica\r (30 de setembro de 1994)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 290,
+            "titulo": "Vitae Mysterium (11 de fevereiro de 1994)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 291,
+            "titulo": "Socialium Scientiarum (1° de janeiro de 1994)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 292,
+            "titulo": "Inde a Pontificatus (25 de março de 1993)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 293,
+            "titulo": "Europae Orientalis (15 de janeiro de 1993)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 294,
+            "titulo": "Carta Apostólica sob forma de Motu  Proprio com \ra qual é instituído o  Departamento de Trabalho da Sé Apostólica (ULSA) (1° \rde janeiro de 1989)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 295,
+            "titulo": " Ecclesia Dei (2 de julho de 1988) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_02071988_ecclesia-dei.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 296,
+            "titulo": "Iusti\rIudicis (28 de junho de 1988)",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 297,
+            "titulo": " Decessores nostri (18 de junho de 1988) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_19880618_decessores-nostri.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 298,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 299,
+            "titulo": "Inter eximia (11 de maio de 1978)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 300,
+            "titulo": "Iustitiam et pacem (10 de dezembro \rde 1976)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 301,
+            "titulo": "Apostolatus peragendi (10 de \rdezembro de 1976)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 302,
+            "titulo": "Catholica ecclesia (23 de outubro \rde 1976)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 303,
+            "titulo": "Firma in traditione (13 de junho de \r1974)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 304,
+            "titulo": "Cum matrimonialium causarum (8 de \rsetembro de 1973)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 305,
+            "titulo": "Magisterium vitae (24 de maio de 1973)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 306,
+            "titulo": "Quo aptius (27 de fevereiro de \r1973)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 307,
+            "titulo": " Ad Pascendum: com a qual se estabelem algumas normas a respeito da Ordem Sacra do Diaconado (15 de agosto de 1972) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio/documents/hf_p-vi_motu-proprio_19720815_ad-pascendum.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 308,
+            "titulo": "Sedula cura (27 de junho de 1971)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 309,
+            "titulo": " Causas matrimoniales: em que se estabelecem algumas normas para uma mais rápida resolução dos processos matrimoniais (28 de março de 1971) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio/documents/hf_p-vi_motu-proprio_19710328_causas-matrimoniales.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 310,
+            "titulo": "Ingravescentem Aetatem (20 de \rnovembro de 1970)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 311,
+            "titulo": "Matrimonia mixta (31 de março de 1970)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 312,
+            "titulo": "Apostolicae caritatis (19 de março de 1970)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 313,
+            "titulo": "Pastoralis migratorum cura \r(15 de agosto de 1969)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 314,
+            "titulo": "Inclita toto (8 de agosto de 1969)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 315,
+            "titulo": "Sollicitudo omnium Ecclesiarum (24 de junho de 1969)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 316,
+            "titulo": "Ad hoc usque tempus \r(15 de abril de 1969)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 317,
+            "titulo": "Sanctitas clarior (19 de março de 1969)",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 318,
+            "titulo": " Mysterii Paschalis: sobre a celebração do Mistério Pascal aprovando as normas universais do Ano Litúrgico e o Novo Calendário Litúrgico (14 de fevereiro de 1969) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/motu_proprio/documents/hf_p-vi_motu-proprio_19690214_mysterii-paschalis.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 319,
+            "titulo": " Motu Proprio",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 320,
+            "titulo": "Supremum officium (17 de dezembro de 1912)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 321,
+            "titulo": "Sobre a construção de um Santuário na cidade de Nettuno para assistência espiritual da população (28 de junho de 1911)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 322,
+            "titulo": "In Romanae Curiae (8 de dezembro de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 323,
+            "titulo": "Ob singularem (8 de setembro de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 324,
+            "titulo": "Sacrorum antistitum (1° de setembro de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 325,
+            "titulo": "Illibatae custodiendae (29 de junho de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 326,
+            "titulo": "Sacris solemniis (9 de junho de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 327,
+            "titulo": "Ex quo (26 de maio de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 328,
+            "titulo": "In hac Beatissimi Petri (3 de maio de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 329,
+            "titulo": "Cum disciplinae (10 de abril de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 330,
+            "titulo": "Cum per apostolicas (7 de abril de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 331,
+            "titulo": "Praestantia Scripturae (18 de novembro de 1907)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 332,
+            "titulo": "In domibus (17 de setembro de 1907)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 333,
+            "titulo": "Singulari curare (17 de setembro de 1907)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 334,
+            "titulo": "Propositum urgentes (5 de agosto de 1906)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 335,
+            "titulo": "Dei providentis benignitatem (16 de julho de 1906)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 336,
+            "titulo": "De Sacris Congregationibus (26 de maio de 1906)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 337,
+            "titulo": "Religiosorum Ordinum (19  de março de 1906)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 338,
+            "titulo": "Summo sane (18 de novembro de 1905)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 339,
+            "titulo": "Sacrosancta Tridentina Synodus (16 de julho de 1905)",
+            "link": "https://www.vatican.va//content/pius-x/pt/motu_proprio.index.1.html",
+            "pontificie": "Benedict XVI"
+        }
+    ]
+}

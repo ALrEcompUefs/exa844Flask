@@ -1,0 +1,1811 @@
+{
+    "tipo": "enciclicas",
+    "motus": [
+        {
+            "id": 1,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/francesco/pt/encyclicals.index.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 2,
+            "titulo": " Fratelli tutti (3 de outubro de 2020) ",
+            "link": "https://www.vatican.va//content/francesco/pt/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 3,
+            "titulo": " Laudato si' (24 de maio de 2015) ",
+            "link": "https://www.vatican.va//content/francesco/pt/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 4,
+            "titulo": " Carta Encíclica Lumen fidei (29 de junho de 2013) ",
+            "link": "https://www.vatican.va//content/francesco/pt/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+            "pontificie": "francesco"
+        },
+        {
+            "id": 5,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 6,
+            "titulo": " Caritas in veritate (29 de junho de 2009) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 7,
+            "titulo": " Spe salvi (30 de novembro de 2007) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 8,
+            "titulo": " Deus caritas est (25 de dezembro de 2005) ",
+            "link": "https://www.vatican.va//content/benedict-xvi/pt/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 9,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 10,
+            "titulo": " Ecclesia de Eucharistia (17 de abril de 2003) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 11,
+            "titulo": " Fides et Ratio (14 de setembro de 1998) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 12,
+            "titulo": " Ut Unum Sint (25 de maio de 1995) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 13,
+            "titulo": " Evangelium Vitae (25 de março de 1995) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 14,
+            "titulo": " Veritatis Splendor (6 de agosto de 1993) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 15,
+            "titulo": " Centesimus Annus (1º de maio de 1991) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 16,
+            "titulo": " Redemptoris Missio (7 de dezembro de 1990) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 17,
+            "titulo": " Sollicitudo Rei Socialis (30 de dezembro de 1987) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 18,
+            "titulo": " Redemptoris Mater (25 de março de 1987) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 19,
+            "titulo": " Dominum et Vivificantem (18 de maio de 1986) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 20,
+            "titulo": " Slavorum Apostoli (2 de junho de 1985) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 21,
+            "titulo": " Laborem Exercens (14 de setembro de 1981) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 22,
+            "titulo": " Dives in Misericordia (30 de novembro de 1980) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 23,
+            "titulo": " Redemptor Hominis (4 de março de 1979) ",
+            "link": "https://www.vatican.va//content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 24,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/paul-vi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 25,
+            "titulo": " Humanae Vitae (25 de julho 1968) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 26,
+            "titulo": " Sacerdotalis Caelibatus (24 de junho 1967) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 27,
+            "titulo": " Populorum Progressio (26 de março 1967) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 28,
+            "titulo": " Christi Matri (15 de setembro 1966) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 29,
+            "titulo": " Mysterium Fidei (3 de setembro 1965) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 30,
+            "titulo": " Mense Maio (29 de abril 1965) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 31,
+            "titulo": " Ecclesiam Suam (6 de agosto 1964) ",
+            "link": "https://www.vatican.va//content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_06081964_ecclesiam.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 32,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 33,
+            "titulo": " Pacem in Terris (11 de abril de 1963) ",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 34,
+            "titulo": " Paenitentiam Agere (1 de julho de 1962) ",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_01071962_paenitentiam.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 35,
+            "titulo": " Aeterna Dei Sapientia (11 de novembro de 1961) ",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_11111961_aeterna-dei.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 36,
+            "titulo": " Mater et Magistra (15 de maio de 1961) ",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 37,
+            "titulo": " Princeps Pastorum (28 de novembro de 1959) ",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 38,
+            "titulo": " Grata Recordatio (26 de setembro de 1959) ",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_26091959_grata-recordatio.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 39,
+            "titulo": " Sacerdotii Nostri Primordia (1 de agosto de 1959) ",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 40,
+            "titulo": " Ad Petri Cathedram (29 de junho de 1959) ",
+            "link": "https://www.vatican.va//content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_29061959_ad-petri.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 41,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 42,
+            "titulo": " Meminisse Iuvat (14 de Julho de 1958) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_14071958_meminisse-iuvat.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 43,
+            "titulo": " Ad Apostolorum Principis (29 de Junho de 1958) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 44,
+            "titulo": " Miranda Prorsus (8 de Setembro de 1957) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 45,
+            "titulo": " Le Pèlerinage de Lourdes (2 de Julho de 1957) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_02071957_le-pelerinage-de-lourdes.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 46,
+            "titulo": "Invicti Athletae (16 de Maio de 1957)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 47,
+            "titulo": " Fidei Donum (21 de Abril de 1957) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_21041957_fidei-donum.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 48,
+            "titulo": "Datis Nuperrime (5 de Novembro de 1956)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 49,
+            "titulo": "Laetamur Admodum (1° de Novembro de 1956)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 50,
+            "titulo": "Luctuosissimi Eventus (28 de Outubro de 1956)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 51,
+            "titulo": " Haurietis Aquas (15 de Maio de 1956) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 52,
+            "titulo": " Musicae Sacrae Disciplina (25 de Dezembro de 1955) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_25121955_musicae-sacrae.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 53,
+            "titulo": " Ad Caeli Reginam (11 de Outubro de 1954) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_11101954_ad-caeli-reginam.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 54,
+            "titulo": "Ad Sinarum Gentem (7 de Outubro de 1954)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 55,
+            "titulo": " Ecclesiae Fastos (5 de Junho de 1954) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_05061954_ecclesiae-fastos.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 56,
+            "titulo": " Sacra Virginitas (25 de Março de 1954) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_25031954_sacra-virginitas.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 57,
+            "titulo": " Fulgens Corona (8 de Setembro de 1953) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 58,
+            "titulo": " Doctor Mellifluus (24 de Maio de 1953) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_24051953_doctor-mellifluus.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 59,
+            "titulo": " Orientales Ecclesias (15 de Dezembro de 1952) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 60,
+            "titulo": " Ingruentium Malorum (15 de Setembro de 1951) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15091951_ingruentium-malorum.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 61,
+            "titulo": " Sempiternus Rex Christus (8 de Setembro de 1951) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091951_sempiternus-rex-christus.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 62,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 63,
+            "titulo": "Ingravescentibus Malis (29 de setembro de 1937)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 64,
+            "titulo": "Firmissimam Constantiam (28 de \rmarço de 1937)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 65,
+            "titulo": " Divinis Redemptoris: sobre o Comunismo Ateu (19 de março de 1937) ",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 66,
+            "titulo": "Mit Brennender Sorge (14 de março de 1937)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 67,
+            "titulo": " Vigilanti Cura: sobre o cinema (29 de junho de 1936) ",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 68,
+            "titulo": "Ad Catholici Sacerdotii (20 de dezembro de 1935)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 69,
+            "titulo": "Dilectissima Nobis (3 de junho de 1933)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 70,
+            "titulo": "Acerba Animi (29 de setembro de 1932)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 71,
+            "titulo": "Caritate Christi Compulsi (3 de maio de 1932)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 72,
+            "titulo": "Nova Impendet (2 de outubro de 1931)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 73,
+            "titulo": "Non Abbiamo Bisogno (29 de junho de 1931)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 74,
+            "titulo": " Quadragesimo Anno: 40º aniversário da Rerum novarum (15 de maio de 1931) ",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 75,
+            "titulo": "Casti Connubii (31 de dezembro de 1930)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 76,
+            "titulo": "Ad Salutem Humani (20 de abril de 1930)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 77,
+            "titulo": "Rappresentanti in terra (31 de dezembro de 1929)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 78,
+            "titulo": " Divini illius magistri: sobre a Educação Cristã da Juventude (31 de dezembro de 1929) ",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 79,
+            "titulo": "Quinquagesimo ante anno (23 de dezembro de 1929)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 80,
+            "titulo": "Mens Nostra (20 de dezembro de 1929)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 81,
+            "titulo": "Rerum Orientalium (8 de setembro de 1928)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 82,
+            "titulo": "Miserentissimus Redemptor (8 de maio de 1928)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 83,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 84,
+            "titulo": "Fausto Appetente Die (29 de junho de 1921)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 85,
+            "titulo": "In Praeclara Summorum (30 de abril de 1921)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 86,
+            "titulo": "Sacra Propediem (6 de janeiro de 1921)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 87,
+            "titulo": "Annus Iam Plenus (1 de dezembro de 1920)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 88,
+            "titulo": "Principi Apostolorum Petro (5 de outubro de 1920)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 89,
+            "titulo": "Spiritus Paraclitus (15 de setembro de 1920)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 90,
+            "titulo": "Pacem, Dei Munus Pulcherrimum (23 de maio de 1920)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 91,
+            "titulo": "Paterno Iam Diu (24 de novembro de 1919)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 92,
+            "titulo": "In Hac Tanta (14 de maio de 1919)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 93,
+            "titulo": "Quod Iam Diu (1 de dezembro de 1918)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 94,
+            "titulo": "Humani Generis Redemptionem (15 de junho de 1917)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 95,
+            "titulo": "Ad Beatissimi Apostolorum (1 de novembro de 1914)",
+            "link": "https://www.vatican.va//content/benedict-xv/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 96,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 97,
+            "titulo": "Singulari quadam (24 de setembro de 1912)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 98,
+            "titulo": "Lacrimabili Statu (7 de junho de 1912)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 99,
+            "titulo": "Iamdudum (24 de maio de 1911)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 100,
+            "titulo": "Editae Saepe (26 de maio de 1910)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 101,
+            "titulo": "Communium Rerum (21 de abril de 1909)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 102,
+            "titulo": " Pascendi Dominici Gregis: sobre as doutrinas modernas (8 de setembro de 1907) ",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 103,
+            "titulo": "Une Fois Encore (6 de janeiro de 1907)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 104,
+            "titulo": "Gravissimo Officii Munere (10 de agosto de 1906)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 105,
+            "titulo": "Pieni L'Animo (28 de julho de 1906)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 106,
+            "titulo": "Tribus Circiter (5 de abril de 1906)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 107,
+            "titulo": "Vehementer Nos (11 de fevereiro de 1906)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 108,
+            "titulo": "Il Fermo Proposito (11 de junho de 1905)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 109,
+            "titulo": "Acerbo Nimis (15 de abril de 1905)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 110,
+            "titulo": "Iucunda Sane (12 de março de 1904)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 111,
+            "titulo": "Ad Diem Illum Laetissimum (2 de fevereiro de 1904)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 112,
+            "titulo": "E Supremi (4 de outubro de 1903)",
+            "link": "https://www.vatican.va//content/pius-x/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 113,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 114,
+            "titulo": "Dum Multa (24 de dezembro de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 115,
+            "titulo": "Fin dal Principio (8 de dezembro de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 116,
+            "titulo": "Quae Ad Nos (22 de novembro de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 117,
+            "titulo": "Mirae Caritatis (28 de maio de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 118,
+            "titulo": "Quod Votis (30 de abril de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 119,
+            "titulo": "In Amplissimo (15 de abril de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 120,
+            "titulo": "Urbanitatis Veteris (20 de novembro de 1901)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 121,
+            "titulo": "Reputantibus (20 de agosto de 1901)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 122,
+            "titulo": "Gravissimas (16 de maio de 1901)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 123,
+            "titulo": "Graves de Communi Re (18 de janeiro de 1901)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 124,
+            "titulo": "Tametsi Futura Prospicientibus (1 de novembro de 1900)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 125,
+            "titulo": "Omnibus Compertum (21 de julho de 1900)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 126,
+            "titulo": "Paternae (18 de setembro de 1899)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 127,
+            "titulo": "Depuis le Jour (8 de setembro de 1899)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 128,
+            "titulo": "Annum Sacrum (25 de maio de 1899)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 129,
+            "titulo": "Quum Diuturnum (25 de dezembro de 1898)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 130,
+            "titulo": " Diuturni Temporis: sobre o Rosário de Nossa Senhora (5 de setembro de 1898) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 131,
+            "titulo": "Quam Religiosa (16 de agosto de 1898)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 132,
+            "titulo": "Spesse Volte (5 de agosto de 1898)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 133,
+            "titulo": "Caritatis Studium (25 de julho de 1898)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 134,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 135,
+            "titulo": " Evangelii Praecones (2 de Junho de 1951) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 136,
+            "titulo": " Mirabile Illud (6 de Dezembro de 1950) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_06121950_mirabile-illud.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 137,
+            "titulo": " Humani Generis (12 de Agosto de 1950) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 138,
+            "titulo": " Summi Maeroris (19 de Julho de 1950) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_19071950_summi-maeroris.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 139,
+            "titulo": " Anni Sacri (12 de Março de 1950) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_12031950_anni-sacri.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 140,
+            "titulo": "Redemptoris Nostri Cruciatus (15 de Abril de 1949)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 141,
+            "titulo": " In Multiplicibus Curis (24 de Outubro de 1948) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_24101948_in-multiplicibus-curis.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 142,
+            "titulo": " Auspicia Quaedam (1° de Maio de 1948) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_01051948_auspicia-quaedam.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 143,
+            "titulo": " Optatissima Pax (18 de Dezembro de 1947) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_18121947_optatissima-pax.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 144,
+            "titulo": " Mediator Dei (20 de novembro de 1947) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_20111947_mediator-dei.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 145,
+            "titulo": " Fulgens Radiatur (21 de Março de 1947) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 146,
+            "titulo": " Deiparae Virginis Mariae (1° de Maio de 1946) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_01051946_deiparae-virginis-mariae.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 147,
+            "titulo": " Quemadmodum (6 de Janeiro de 1946) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_06011946_quemadmodum.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 148,
+            "titulo": "Orientales Omnes Ecclesias (23 de Dezembro de 1945)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 149,
+            "titulo": " Communium Interpretes Dolorum (15 de Abril de 1945) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 150,
+            "titulo": " Orientalis Ecclesiae (9 de Abril de 1944) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_09041944_orientalis-ecclesiae.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 151,
+            "titulo": " Divino Afflante Spiritu (30 de Setembro de 1943) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_30091943_divino-afflante-spiritu.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 152,
+            "titulo": " Mystici Corporis Christi (29 de Junho de 1943) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 153,
+            "titulo": " Saeculo Exeunte Octavo (13 de Junho de 1940) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 154,
+            "titulo": " Sertum Laetitiae (1° de Novembro de 1939) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 155,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 156,
+            "titulo": " Summi Pontificatus (20 de Outubro de 1939) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 157,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 158,
+            "titulo": " Mortalium Animos: sobre a promoção da unidade de religião (6 de janeiro de 1928) ",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19280106_mortalium-animos.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 159,
+            "titulo": "Iniquis Afflictisque (18 de novembro de 1926)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 160,
+            "titulo": "Rite Expiatis (30 de abril de 1926)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 161,
+            "titulo": "Rerum Ecclesiae (28 de fevereiro de 1926)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 162,
+            "titulo": "Quas Primas (11 de dezembro de 1925)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 163,
+            "titulo": "Maximam Gravissimamque (18 de janeiro de 1924)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 164,
+            "titulo": "Ecclesiam Dei (12 de novembro de 1923)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 165,
+            "titulo": "Studiorum ducem (29 de junho de 1923)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 166,
+            "titulo": "Rerum Omnium Perturbationem (26 de janeiro de 1923)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 167,
+            "titulo": "Fin dal primo momento (23 de dezembro de 1922)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 168,
+            "titulo": "Ubi Arcano Dei Consilio (23 de dezembro de 1922)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 169,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 170,
+            "titulo": "Affari Vos (8 de dezembro de 1897)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 171,
+            "titulo": " Augustissimae Virginis Mariae: sobre o Rosário de Nossa Senhora (12 de setembro de 1897) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_12091897_augustissimae-virginis-mariae.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 172,
+            "titulo": "Militantis Ecclesiae (1 de agosto de 1897)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 173,
+            "titulo": "Divinum illud munus (9 de maio de 1897)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 174,
+            "titulo": " Fidentem Piumque Animum: sobre o Rosário de Nossa Senhora (20 de setembro de 1896) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_20091896_fidentem-piumque-animum.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 175,
+            "titulo": "Satis Cognitum (29 de junho de 1896)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 176,
+            "titulo": "Insignes (1 de maio de 1896)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 177,
+            "titulo": " Adiutricem Populi: sobre o Rosário de Nossa Senhora (5 de setembro de 1895) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_05091895_adiutricem.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 178,
+            "titulo": "Permoti Nos (10 de julho de 1895)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 179,
+            "titulo": "Longinqua (6 de janeiro de 1895)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 180,
+            "titulo": "Christi Nomen (24 de dezembro de 1894)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 181,
+            "titulo": " Iucunda Semper Expectatione: sobre o Rosário de Nossa Senhora (8 de setembro de 1894) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_08091894_iucunda-semper-expectatione.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 182,
+            "titulo": "Litteras a Vobis (2 de julho de 1894)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 183,
+            "titulo": "Inter Graves (1 de maio de 1894)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 184,
+            "titulo": "Caritatis (19 de março de 1894)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 185,
+            "titulo": "Providentissimus Deus (18 de novembro de 1893)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 186,
+            "titulo": "Non Mediocri (25 de outubro de 1893)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 187,
+            "titulo": " Laetitiae Sanctae: sobre o Rosário de Nossa Senhora (8 de setembro de 1893) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_08091893_laetitiae-sanctae.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 188,
+            "titulo": "Constanti Hungarorum (2 de setembro de 1893)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 189,
+            "titulo": "Ad Extremas (24 de junho de 1893)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.2.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 190,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 191,
+            "titulo": "Custodi di quella Fede (8 de dezembro de 1892)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 192,
+            "titulo": "Inimica Vis (8 de dezembro de 1892)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 193,
+            "titulo": " Magnae Dei Matris: sobre o Rosário de Nossa Senhora (8 de setembro de 1892) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_08091892_magnae-dei-matris.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 194,
+            "titulo": "Quarto Abeunte Saeculo (16 de julho de 1892)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 195,
+            "titulo": "Au Milieu Des Sollicitudes (16 de fevereiro de 1892)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 196,
+            "titulo": " Octobri mense: sobre o Rosário de Nossa Senhora (22 de setembro de 1891) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 197,
+            "titulo": "Pastoralis Officii (12 de setembro de 1891)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 198,
+            "titulo": "Pastoralis vigilantiae (25 de junho de 1891)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 199,
+            "titulo": " Rerum Novarum: sobre a condição dos  operários (15 de maio de 1891) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 200,
+            "titulo": "In Ipso (3 de março de 1891)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 201,
+            "titulo": "Catholicae Ecclesiae (20 de novembro de 1890)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 202,
+            "titulo": " Dall'Alto dell'Apostolo Seggio: sobre a Maçonaria na Itália (15 de outubro de 1890) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_18901015_apostolico-seggio.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 203,
+            "titulo": "Sapientiae Christianae (10 de janeiro de 1890)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 204,
+            "titulo": "Quamquam Pluries  (15 de agosto de 1889)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 205,
+            "titulo": "Magni Nobis (7 de março de 1889)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 206,
+            "titulo": "Exeunte Iam Anno (25 de dezembro de 1888)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 207,
+            "titulo": "Etsi Cunctas (21 de dezembro de 1888)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 208,
+            "titulo": "Quam Aerumnosa (10 de dezembro de 1888)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 209,
+            "titulo": "Paterna Caritas (25 de julho de 1888)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 210,
+            "titulo": "Saepe Nos (24 de junho de 1888)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.3.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 211,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 212,
+            "titulo": "Libertas (20 de junho de 1888)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 213,
+            "titulo": "In Plurimis (5 de Maio de 1888)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 214,
+            "titulo": "Quod Anniversarius (1 de abril de 1888)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 215,
+            "titulo": "Officio Sanctissimo (22 de dezembro de 1887)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 216,
+            "titulo": "Vi è Ben Noto (20 de setembro de 1887)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 217,
+            "titulo": "Pergrata (14 de setembro de 1886)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 218,
+            "titulo": "Quod Multum (22 de agosto de 1886)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 219,
+            "titulo": "Iampridem (6 de janeiro de 1886)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 220,
+            "titulo": "Quod Auctoritate (22 de dezembro de 1885)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 221,
+            "titulo": "Spectata Fides (27 de novembro de 1885)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 222,
+            "titulo": " Immortale Dei: sobre a Constituição Cristã dos Estados (1º de novembro de 1885) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 223,
+            "titulo": " Superiore Anno: sobre o Rosário de Nossa Senhora (30 de agosto de 1884) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_30081884_superiore-anno.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 224,
+            "titulo": " Humanum Genus: sobre a maçonaria (20 de abril de 1884) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 225,
+            "titulo": "Nobilissima Gallorum Gens (8 de fevereiro de 1884)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 226,
+            "titulo": " Supremi Apostolatus Officio: sobre o Rosário de Nossa Senhora (1º de setembro de 1883) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_01091883_supremi-apostolatus-officio.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 227,
+            "titulo": "Cum Multa (8 de dezembro de 1882)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 228,
+            "titulo": "Auspicato Concessum (17 de setembro de 1882)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 229,
+            "titulo": "Etsi Nos (15 de fevereiro de 1882)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 230,
+            "titulo": "Licet Multa (3 de agosto de 1881)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 231,
+            "titulo": "Diuturnum (29 de junho de 1881)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.4.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 232,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.5.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 233,
+            "titulo": "Sancta Dei Civitas (3 de dezembro de 1880)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.5.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 234,
+            "titulo": "Grande Munus (30 de setembro de 1880)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.5.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 235,
+            "titulo": "Arcanum Divinae (10 de fevereiro de 1880)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.5.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 236,
+            "titulo": "Aeterni Patris (4 de agosto de 1879)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.5.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 237,
+            "titulo": "Quod Apostolici Muneris (28 de dezembro de 1878)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.5.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 238,
+            "titulo": " Inscrutabili dei consilio: sobre os males da Sociedade moderna, suas causas e seus remédios (21 de abril de 1878) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_21041878_inscrutabili-dei-consilio.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 239,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 240,
+            "titulo": " Meminisse Iuvat (14 de Julho de 1958) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_14071958_meminisse-iuvat.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 241,
+            "titulo": " Ad Apostolorum Principis (29 de Junho de 1958) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_29061958_ad-apostolorum-principis.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 242,
+            "titulo": " Miranda Prorsus (8 de Setembro de 1957) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091957_miranda-prorsus.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 243,
+            "titulo": " Le Pèlerinage de Lourdes (2 de Julho de 1957) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_02071957_le-pelerinage-de-lourdes.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 244,
+            "titulo": "Invicti Athletae (16 de Maio de 1957)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 245,
+            "titulo": " Fidei Donum (21 de Abril de 1957) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_21041957_fidei-donum.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 246,
+            "titulo": "Datis Nuperrime (5 de Novembro de 1956)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 247,
+            "titulo": "Laetamur Admodum (1° de Novembro de 1956)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 248,
+            "titulo": "Luctuosissimi Eventus (28 de Outubro de 1956)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 249,
+            "titulo": " Haurietis Aquas (15 de Maio de 1956) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15051956_haurietis-aquas.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 250,
+            "titulo": " Musicae Sacrae Disciplina (25 de Dezembro de 1955) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_25121955_musicae-sacrae.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 251,
+            "titulo": " Ad Caeli Reginam (11 de Outubro de 1954) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_11101954_ad-caeli-reginam.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 252,
+            "titulo": "Ad Sinarum Gentem (7 de Outubro de 1954)",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 253,
+            "titulo": " Ecclesiae Fastos (5 de Junho de 1954) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_05061954_ecclesiae-fastos.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 254,
+            "titulo": " Sacra Virginitas (25 de Março de 1954) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_25031954_sacra-virginitas.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 255,
+            "titulo": " Fulgens Corona (8 de Setembro de 1953) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091953_fulgens-corona.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 256,
+            "titulo": " Doctor Mellifluus (24 de Maio de 1953) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_24051953_doctor-mellifluus.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 257,
+            "titulo": " Orientales Ecclesias (15 de Dezembro de 1952) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15121952_orientales.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 258,
+            "titulo": " Ingruentium Malorum (15 de Setembro de 1951) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15091951_ingruentium-malorum.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 259,
+            "titulo": " Sempiternus Rex Christus (8 de Setembro de 1951) ",
+            "link": "https://www.vatican.va//content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091951_sempiternus-rex-christus.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 260,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 261,
+            "titulo": "Ingravescentibus Malis (29 de setembro de 1937)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 262,
+            "titulo": "Firmissimam Constantiam (28 de \rmarço de 1937)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 263,
+            "titulo": " Divinis Redemptoris: sobre o Comunismo Ateu (19 de março de 1937) ",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 264,
+            "titulo": "Mit Brennender Sorge (14 de março de 1937)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 265,
+            "titulo": " Vigilanti Cura: sobre o cinema (29 de junho de 1936) ",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_29061936_vigilanti-cura.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 266,
+            "titulo": "Ad Catholici Sacerdotii (20 de dezembro de 1935)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 267,
+            "titulo": "Dilectissima Nobis (3 de junho de 1933)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 268,
+            "titulo": "Acerba Animi (29 de setembro de 1932)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 269,
+            "titulo": "Caritate Christi Compulsi (3 de maio de 1932)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 270,
+            "titulo": "Nova Impendet (2 de outubro de 1931)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 271,
+            "titulo": "Non Abbiamo Bisogno (29 de junho de 1931)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 272,
+            "titulo": " Quadragesimo Anno: 40º aniversário da Rerum novarum (15 de maio de 1931) ",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 273,
+            "titulo": "Casti Connubii (31 de dezembro de 1930)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 274,
+            "titulo": "Ad Salutem Humani (20 de abril de 1930)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 275,
+            "titulo": "Rappresentanti in terra (31 de dezembro de 1929)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 276,
+            "titulo": " Divini illius magistri: sobre a Educação Cristã da Juventude (31 de dezembro de 1929) ",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 277,
+            "titulo": "Quinquagesimo ante anno (23 de dezembro de 1929)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 278,
+            "titulo": "Mens Nostra (20 de dezembro de 1929)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 279,
+            "titulo": "Rerum Orientalium (8 de setembro de 1928)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 280,
+            "titulo": "Miserentissimus Redemptor (8 de maio de 1928)",
+            "link": "https://www.vatican.va//content/pius-xi/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 281,
+            "titulo": " Encíclicas",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 282,
+            "titulo": "Dum Multa (24 de dezembro de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 283,
+            "titulo": "Fin dal Principio (8 de dezembro de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 284,
+            "titulo": "Quae Ad Nos (22 de novembro de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 285,
+            "titulo": "Mirae Caritatis (28 de maio de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 286,
+            "titulo": "Quod Votis (30 de abril de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 287,
+            "titulo": "In Amplissimo (15 de abril de 1902)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 288,
+            "titulo": "Urbanitatis Veteris (20 de novembro de 1901)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 289,
+            "titulo": "Reputantibus (20 de agosto de 1901)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 290,
+            "titulo": "Gravissimas (16 de maio de 1901)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 291,
+            "titulo": "Graves de Communi Re (18 de janeiro de 1901)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 292,
+            "titulo": "Tametsi Futura Prospicientibus (1 de novembro de 1900)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 293,
+            "titulo": "Omnibus Compertum (21 de julho de 1900)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 294,
+            "titulo": "Paternae (18 de setembro de 1899)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 295,
+            "titulo": "Depuis le Jour (8 de setembro de 1899)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 296,
+            "titulo": "Annum Sacrum (25 de maio de 1899)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 297,
+            "titulo": "Quum Diuturnum (25 de dezembro de 1898)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 298,
+            "titulo": " Diuturni Temporis: sobre o Rosário de Nossa Senhora (5 de setembro de 1898) ",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_05091898_diuturni-temporis.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 299,
+            "titulo": "Quam Religiosa (16 de agosto de 1898)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 300,
+            "titulo": "Spesse Volte (5 de agosto de 1898)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        },
+        {
+            "id": 301,
+            "titulo": "Caritatis Studium (25 de julho de 1898)",
+            "link": "https://www.vatican.va//content/leo-xiii/pt/encyclicals.index.1.html",
+            "pontificie": "Benedict XVI"
+        }
+    ]
+}
