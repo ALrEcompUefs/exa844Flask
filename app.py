@@ -8,8 +8,28 @@ enciclicas = defaultdict(dict)
 motus= defaultdict(dict)
 pontifices = defaultdict(dict)
 viagens = defaultdict(dict)
+ #------------------------------------------------------------------------------
+aux = open("cartas_apostolicas.json","r")
+cartas_apostolicas = json.load(aux)
 
+aux = open("cartas.json","r")
+cartas = json.load(aux)
+
+aux = open("enciclicas.json","r")
+enciclicas = json.load(aux)
+
+aux = open("motus_proprio.json","r")
+motus = json.load(aux)
+
+aux = open("pontifices.json","r")
+pontifices = json.load(aux)
+
+aux =open("viagens.json","r")
+viagens = json.load(aux)
+ #-----------------------------------------------------------------------------
 app = Flask(__name__)
+app.config.from_pyfile('config.py')
+
 @app.route('/', methods=['GET'])
 def index():
     data = {"msg":"esta é uma aplicação para a discplina exa844"}
@@ -84,23 +104,9 @@ def getViagens():
             return js
     return viagens
 
-if __name__ == '__main__':
-    aux = open("cartas_apostolicas.json","r")
-    cartas_apostolicas = json.load(aux)
-
-    aux = open("cartas.json","r")
-    cartas = json.load(aux)
-
-    aux = open("enciclicas.json","r")
-    enciclicas = json.load(aux)
-
-    aux = open("motus_proprio.json","r")
-    motus = json.load(aux)
-
-    aux = open("pontifices.json","r")
-    pontifices = json.load(aux)
-
-    aux =open("viagens.json","r")
-    viagens = json.load(aux)
-
+def main():
     app.run()
+
+if __name__ == '__main__':
+    main()
+    
