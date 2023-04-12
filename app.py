@@ -28,7 +28,6 @@ aux =open("viagens.json","r")
 viagens = json.load(aux)
  #-----------------------------------------------------------------------------
 app = Flask(__name__)
-app.config.from_pyfile('config.py')
 
 @app.route('/', methods=['GET'])
 def index():
