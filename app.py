@@ -44,6 +44,29 @@ def teste():
 @app.route('/pontifices', methods=['GET'])
 def getPontifices():
     return pontifices
+ 
+@app.route('/pontifices/top', methods=['GET'])
+def getTopPontifices():
+    args = request.args
+    args = args.to_dict()
+
+    if 'top' in args:
+        if args['top'] !="":
+            top = args['top']
+            if top == "viagens":
+                js =[]
+                lista = viagens['viagens']
+                papas=["francesco","Benedict XVI","John Paul II"]
+                for pontifice in papas:
+                    count = 0
+                    for item in lista:
+                        if item['pontifice'] == pontifice:
+                            count = count+1
+                    data ={"pontifice":pontifice,"total viagens":count}
+                    js.append(data)
+                js = sorted(js, key=lambda i: i['total viagens'],reverse=True)
+                return js
+    return {"msg":"Nenhuma categoria especificada"}
 
 @app.route('/cartas_apostolicas', methods=['GET'])
 def getCartasApostolicas():
