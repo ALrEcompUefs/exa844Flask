@@ -153,8 +153,40 @@ def getContagemViagens():
 def getDestinos():
     args = request.args
     args = args.to_dict()
+    if 'pontifice' in args and 'ano' in args:
+        if args['pontifice'] !="" and args['ano'] !="" :
+            pontifice = str(args['pontifice'])
+            ano = str( args['ano'] )
+            lista = viagens['viagens']
+            js =[]
+            for item in lista:
+                if item['pontifice'] == pontifice and item['ano'] == ano:
+                    data={"destino":item['destino'],"pontifice":item['pontifice'],"ano":ano}
+                    js.append(data)
+            return js
+    elif 'pontifice' in args:
+        if args['pontifice'] !="" :
+            pontifice = str(args['pontifice'])
 
-    if 'destino' in args:
+            lista = viagens['viagens']
+            js =[]
+            for item in lista:
+                if item['pontifice'] == pontifice:
+                    data={"destino":item['destino']}
+                    js.append(data)
+            return js
+    elif 'ano' in args:
+        if args['ano'] !="" :
+            ano = str( args['ano'] )
+            lista = viagens['viagens']
+            js =[]
+
+            for item in lista:
+                if item['ano'] == ano:
+                    data={"destino":item['destino']}
+                    js.append(data)
+            return js
+    elif 'destino' in args:
         if args['destino'] !="":
             destino = args['destino']
             lista = viagens['viagens']
