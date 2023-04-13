@@ -61,6 +61,7 @@ def getCartas():
 def getMotus():
     return motus
 
+# Rotas para obter dados de viagens por categorias
 @app.route('/viagens', methods=['GET'])
 def getViagens():
     args = request.args
@@ -103,6 +104,72 @@ def getViagens():
             return js
     return viagens
 
+# Rota para contagem do numero de viagens
+@app.route('/viagens/contagem', methods=['GET'])
+def getContagemViagens():
+    # obtem parametros da requisicao e converte para dicionario
+    args = request.args
+    args = args.to_dict()
+    if 'pontifice' in args and 'ano' in args:
+        if args['pontifice'] !="" and args['ano'] !="":
+            ano = str(args['ano'])
+            pontifice = str(args['pontifice'])
+
+            lista = viagens['viagens']
+            count =0
+            for item in lista:
+                if item["ano"] == ano and item["pontifice"]:
+                    count = count +1
+            data = {"total de viagens":count,"ano":ano,"pontifice":pontifice}
+            return data
+    elif 'pontifice' in args:
+        if args['pontifice'] !="":
+            pontifice = str(args['pontifice'])
+
+            lista = viagens['viagens']
+            count =0
+            for item in lista:
+                if item['pontifice'] == pontifice:
+                    count = count+1
+            data = {"total de viagens":count,"pontifice":pontifice}
+            return data
+    elif 'ano' in args:
+         if args['ano']!= "":
+            ano = str(args['ano'])
+
+            lista = viagens['viagens']
+            count =0
+            for item in lista:
+                if item['ano'] == ano:
+                    count = count+1
+            data ={"total de viagens":count,"ano":ano}
+            return data
+    # caso padrão
+    lista = viagens['viagens']
+    return str(len(lista))
+
+#rotas para obter dados dos destinos das viagens
+@app.route('/viagens/destinos', methods=['GET'])
+def getDestinos():
+    args = request.args
+    args = args.to_dict()
+
+    if 'destino' in args:
+        if args['destino'] !="":
+            destino = args['destino']
+            lista = viagens['viagens']
+            js =[]
+            for item in lista:
+                if item['destino'] == destino:
+                    data = {"id":item['id'],"destino":item['destino'],"titulo":item['titulo']}
+                    js.append(data)
+            return js
+    lista = viagens['viagens']
+
+    js = []
+    for item in lista:
+        js.append(str(item['destino']))
+    return js
 def main():
     app.run()
 
