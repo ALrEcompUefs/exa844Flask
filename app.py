@@ -71,7 +71,7 @@ def getTopPontifices():
                     for item in lista:
                         if item['ano'] == data_ano['Ano'] and item['pontifice'] == pontifice:
                             data_ano['total_viagens'] = int(data_ano['total_viagens']) + 1
-            js = sorted(js, key=lambda i: i['Ano'],reverse=True)
+            js = sorted(js, key=lambda i: i['total_viagens'],reverse=True)
             return js
     elif 'top' in args:
         # retorna o ranking de viagens por pontifice
@@ -104,7 +104,7 @@ def getTopPontifices():
                         for item in lista:
                             if item['ano'] == data_ano['Ano']:
                                 data_ano['total_viagens'] = int(data_ano['total_viagens']) + 1
-                    js = sorted(js, key=lambda i: i['Ano'],reverse=True)
+                    js = sorted(js, key=lambda i: i['total_viagens'],reverse=True)
             return js
     return {"msg":"Nenhuma categoria especificada"}
 
